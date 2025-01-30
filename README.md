@@ -11,26 +11,40 @@ This research examines the mental health impact of government-imposed internet b
 Authors
 
 
+
 Md. Tariqul Islam
-Department of CSE, BRAC University
+
+Department of CSE, 
+
+BRAC University
+
 Dhaka-1212, Bangladesh
+
 md.tariqul.islam3@g.bracu.ac.bd
 
 
 Tahidul Islam
+
 BUET
+
 Dhaka-1207, Bangladesh
 
 
 Mohammad Ariful Islam Rafi
+
 Department of EEE, University of Liberal Arts Bangladesh
+
 Dhaka-1207, Bangladesh
+
 ariful.islam1.eee@ulab.edu.bd
 
 
 Tauhidur Rahman Sakib
+
 Department of CSE, BRAC University
+
 Dhaka-1212, Bangladesh
+
 tauhidur.rahman.sakib@g.bracu.ac.bd
 
 
